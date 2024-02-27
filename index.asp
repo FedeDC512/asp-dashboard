@@ -13,8 +13,8 @@
         <div class="login-title">Login:</div>
         <form method="get" action="login.asp" class="big-form-container">
             <div class="form-container">
-                <div> Username: <input type="text" name="lusername"></div> 
-                <div> Password: <input type="text" name="lpassword"></div> 
+                <div> Username: <input type="text" name="lusername" required></div> 
+                <div> Password: <input type="text" name="lpassword" required></div> 
             </div>
             <input type="submit" value="Login">
         </form>
@@ -24,9 +24,9 @@
         <div class="login-title">Sign in:</div>
         <form method="get" action="registration.asp" class="big-form-container">
             <div class="form-container">
-                <div> Username: <input type="text" name="fusername"></div> 
-                <div> Password: <input type="text" name="fpassword"></div> 
-                <div> Name: <input type="text" name="fname"></div> 
+                <div> Username: <input type="text" name="fusername" required></div> 
+                <div> Password: <input type="text" name="fpassword" required></div> 
+                <div> Name: <input type="text" name="fname" required></div> 
                 <div> Surname: <input type="text" name="fsurname"></div> 
                 <div> Company: <input type="text" name="fcompany"></div> 
             </div>

@@ -4,8 +4,6 @@ body {
     background-color: #e2e8f6;
 }
 
-/*#52c8fe*/
-
 .title, .homepage-title {
     text-align: center;
     padding: 1rem;
@@ -111,8 +109,12 @@ li {
   border-radius: 0.25rem;
   margin: 1rem;
   padding: 1rem;
-  width: 12rem;
-  max-height: 20rem;
+  width: 13rem;
+  max-height: 26rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: space-between;
 }
 
 .middle-page {
@@ -124,4 +126,20 @@ li {
   padding: 2rem;
   display: flex;
   flex-wrap: wrap;
+}
+
+a.button {
+  padding: 1px 6px;
+  border: 1px outset buttonborder;
+  font-size: large;
+  text-align: center;
+  max-width: 4rem;
+  border-radius: 3px;
+  color: buttontext;
+  background-color: #FF7F7F;
+  text-decoration: none;
+}
+
+a.greenbutton {
+  background-color: #90ee90;
 }
