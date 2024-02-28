@@ -1,5 +1,5 @@
 <%@LANGUAGE = VBScript%>
-<!--#include file="connessione.asp"-->
+<!--#include file="connection.asp"-->
 
 <%
 Dim db_connection ' Variabile per la connessione
