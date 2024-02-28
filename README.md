@@ -29,6 +29,6 @@
 ![purchases.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/purchases.png)
 
 ## Databases
-![user_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/user_db.png)
+![users_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/users_db.png)
 ![products_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/products_db.png)
 ![purchases_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/purchases_db.png)
