@@ -11,24 +11,24 @@
 - [Databases](#databases)
 
 ## Index
-![index.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/index.png)
+![index.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/index.png)
 
 ## Login
-![login.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/login.png)
+![login.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/login.png)
 
 ## Profile
-![profile.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/profile.png)
+![profile.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/profile.png)
 
 ## User
-![user.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/user.png)
+![user.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/user.png)
 
 ## Products
-![products.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/products.png)
+![products.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/products.png)
 
 ## Purchases
-![purchases.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/purchases.png)
+![purchases.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/purchases.png)
 
 ## Databases
-![user_db.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/user_db.png)
-![products_db.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/products_db.png)
-![purchases_db.png](https://github.com/FedeDC512/livingdex-prototype/blob/main/images/purchases_db.png)
+![user_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/user_db.png)
+![products_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/products_db.png)
+![purchases_db.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/purchases_db.png)
