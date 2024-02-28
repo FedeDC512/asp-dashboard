@@ -5,7 +5,7 @@
 - [Index](#index)
 - [Login](#login)
 - [Profile](#profile)
-- [User](#user)
+- [Users](#users)
 - [Products](#products)
 - [Purchases](#purchases)
 - [Databases](#databases)
@@ -19,8 +19,8 @@
 ## Profile
 ![profile.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/profile.png)
 
-## User
-![user.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/user.png)
+## Users
+![users.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/users.png)
 
 ## Products
 ![products.png](https://github.com/FedeDC512/asp-dashboard/blob/main/images/products.png)
